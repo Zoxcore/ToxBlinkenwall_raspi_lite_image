@@ -8,25 +8,25 @@
 ## Things you need
 
 - Raspberry Pi 3B or 3B+
-    + <b>supported</b> devices:
-        - [Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
-        - [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
+    + <sub><sup><b>supported</b> devices:</sup></sub>
+        - <sub><sup>[Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)</sup></sub>
+        - <sub><sup>[Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)</sup></sub>
 - Raspberry Pi Powersupply
-    + recommended devices:
-        - [Raspberry Pi Universal Power Supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/)
+    + <sub><sup>recommended devices:</sup></sub>
+        - <sub><sup>[Raspberry Pi Universal Power Supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/)</sup></sub>
 - Raspbeery Pi Camera module V2
-    + <b>supported</b> devices:
-        - [Raspberry Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/)
+    + <sub><sup><b>supported</b> devices:</sup></sub>
+        - <sub><sup>[Raspberry Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/)</sup></sub>
 - a micro SD Card 16Gbyte size or larger
-    + recommended devices:
-        - [Samsung Micro SD Card 16GB](https://www.amazon.de/Samsung-Micro-Class-Speicherkarte-Adapter/dp/B06XFSZGCC/)
+    + <sub><sup>recommended devices:</sup></sub>
+        - <sub><sup>[Samsung Micro SD Card 16GB](https://www.amazon.de/Samsung-Micro-Class-Speicherkarte-Adapter/dp/B06XFSZGCC/)</sup></sub>
 - a USB Stick 32MByte size or larger
 - an HDMI Display Device (Computer Screen or HDTV)
 - a USB Sound Device (microphone and speaker)
-    + <b>supported</b> devices:
-        - [Acusis by Antimatter Research](https://www.crowdsupply.com/antimatter-research/acusis)
-        - [USB Sound Device DA-70772](https://www.amazon.de/gp/product/B000FIH4FQ)
-        - [Plantronics P610](https://www.amazon.de/Plantronics-610-M-CALISTO-WW-Schwarz/dp/B00SLP4VQK)
+    + <sub><sup><b>supported</b> devices:</sup></sub>
+        - <sub><sup>[Acusis by Antimatter Research](https://www.crowdsupply.com/antimatter-research/acusis)</sup></sub>
+        - <sub><sup>[USB Sound Device DA-70772](https://www.amazon.de/gp/product/B000FIH4FQ)</sup></sub>
+        - <sub><sup>[Plantronics P610](https://www.amazon.de/Plantronics-610-M-CALISTO-WW-Schwarz/dp/B00SLP4VQK)</sup></sub>
 - a USB Keyboard or USB Keypad
 
 
