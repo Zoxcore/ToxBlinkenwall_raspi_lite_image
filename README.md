@@ -9,12 +9,26 @@
 ## Things you need
 
 - Raspberry Pi 3B or 3B+
+    + <b>supported</b> devices:
+        - [Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
+        - [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 - Raspberry Pi Powersupply
+    + recommended devices:
+        - [Raspberry Pi Universal Power Supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/)
 - Raspbeery Pi Camera module V2
+    + <b>supported</b> devices:
+        - [Raspberry Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/)
 - a micro SD Card 16Gbyte size or larger
+    + recommended devices:
+        - [Samsung Micro SD Card 16GB](https://www.amazon.de/Samsung-Micro-Class-Speicherkarte-Adapter/dp/B06XFSZGCC/)
 - a USB Stick 32MByte size or larger
 - an HDMI Display Device (Computer Screen or HDTV)
 - a USB Sound Device (microphone and speaker)
+    + <b>supported</b> devices:
+        - [Acusis by Antimatter Research](https://www.crowdsupply.com/antimatter-research/acusis)
+        - [USB Sound Device DA-70772](https://www.amazon.de/gp/product/B000FIH4FQ)
+        - [Plantronics P610](https://www.amazon.de/Plantronics-610-M-CALISTO-WW-Schwarz/dp/B00SLP4VQK)
+- a USB Keyboard or USB Keypad
 
 
 ## Latest Release Version (Raspberry PI)
