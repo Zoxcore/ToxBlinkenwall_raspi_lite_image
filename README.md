@@ -10,13 +10,14 @@
 - Raspberry Pi 3B or 3B+
     + <sub><sup>supported devices:</sup></sub>
         - <sub><sup>[Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)</sup></sub>
-        - <sub><sup>[Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)</sup></sub>
+        - <sub><sup>[Rsapberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)</sup></sub>
 - Raspberry Pi Powersupply
     + <sub><sup>recommended devices:</sup></sub>
         - <sub><sup>[Raspberry Pi Universal Power Supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/)</sup></sub>
 - Raspbeery Pi Camera module V2
     + <sub><sup>supported devices:</sup></sub>
         - <sub><sup>[Raspberry Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/)</sup></sub>
+        - <sub><sup>[PLAYSTATION Eye - camera](https://www.amazon.de/Playstation-PS3-eyetoy-Kamera-Großpackung/dp/B00LME2JGQ)</sup></sub>
 - a micro SD Card 16Gbyte size or larger
     + <sub><sup>recommended devices:</sup></sub>
         - <sub><sup>[Samsung Micro SD Card 16GB](https://www.amazon.de/Samsung-Micro-Class-Speicherkarte-Adapter/dp/B06XFSZGCC/)</sup></sub>
@@ -27,7 +28,7 @@
         - <sub><sup>[Acusis by Antimatter Research](https://www.crowdsupply.com/antimatter-research/acusis)</sup></sub>
         - <sub><sup>[USB Sound Device DA-70772](https://www.amazon.de/gp/product/B000FIH4FQ)</sup></sub>
         - <sub><sup>[Plantronics P610](https://www.amazon.de/Plantronics-610-M-CALISTO-WW-Schwarz/dp/B00SLP4VQK)</sup></sub>
-- a USB Keyboard or USB Keypad
+        - <sub><sup>[PLAYSTATION Eye - microphone](https://www.amazon.de/Playstation-PS3-eyetoy-Kamera-Großpackung/dp/B00LME2JGQ)</sup>- a USB Keyboard or USB Keypad
 
 
 ## Latest Release Version (Raspberry PI)
